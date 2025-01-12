@@ -1,0 +1,111 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files.
+.vscode/
+**/.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+TestResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+.idea_modules/
+
+# Auto-generated files (by Visual Studio or .NET)
+*.sln.ide
+*.vs/
+.vsconfig
+.vspscc
+*.dbmdl
+*.opendb
+*.obj
+*.exe
+*.dll
+*.pdb
+*.appx
+*.appxsym
+*.cache
+*.log
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+appsettings.local.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Function bindings
+local.settings.json
+
+# User-specific files
+*.rsuser
+*.resharper
+
+# dotnet SDK-generated files
+artifacts/
+GeneratedFiles/
+.serviceHub/
+.vscode/
+*.publish.xml
+
+# IIS working folder
+IISExpress/
+
+# Other files
+*~
+
+# Database files
+*.mdf
+*.ldf
+
+# JetBrains Rider
+.idea/
+*.dotCover
+*.dotSettings.user
+.idea_modules/
+
+# Log files
+*.log
+
+# Test Results
+TestResults/
+.trx
+*.coverage
+coverage.opencover.xml
+.coveragexml
+
+# NCrunch files
+*.ncrunchsolution
+*.ncrunchproject
+*.ncrunch
+
+# Git directories
+.git/
+
+# App settings
+**/appsettings.json
+**/appsettings.*.json
